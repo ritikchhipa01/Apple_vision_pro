@@ -1,0 +1,15 @@
+
+@import url('https://fonts.cdnfonts.com/css/sf-pro-display');
+
+* {
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+    font-family: SF PRO DISPLAY, sans-serif;
+  }
+  html,
+  body {
+    height: 100%;
+    width: 100%;
+  }
+  
